@@ -3,6 +3,6 @@ public class Hello
     public static void main(String[] args) 
     {
         System.out.println("Hello, world! From: Java :]");
-        system.syntaxError("Syntax error! oops")
+        System.out.println("No more syntax error! Wahoo!");
     }
 }
